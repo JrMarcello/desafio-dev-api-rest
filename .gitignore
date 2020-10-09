@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/public
+
+#Files
+.env
+.package-lock.json
